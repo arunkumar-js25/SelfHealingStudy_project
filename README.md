@@ -1,6 +1,6 @@
-#Study Title : Prediction of Self-Healing Capacity of Cracks using Sodium Silicate Capsule by comparing advanced Machine Learning Approaches.
+#Study Title: Prediction of Self-Healing Capacity of Cracks using Sodium Silicate Capsule by comparing advanced Machine Learning Approaches.
 
-#Study Introduction
+#Study Introduction: 
 Advances in machine learning (ML) methods are important in industrial engineering and attract great attention in recent years. However, a comprehensive 
 comparative study of the most advanced ML algorithms is lacking. As Crack in concrete structure is a major problem affecting the durability of the structures and which may lead to failure of the structure. Repair and rehabilitation of concrete building or structures is expensive and it is difficult to access the damage after completing the construction of the structure. The solution for this type of problem is selfhealing concretes. Capsule based self-healing concrete is a new type of method used to decrease the damage and increase the service life and performance of a concrete structure. Healing agent like sodium silicate being capsulated and introduced into the concrete while casting. To observe the self-healing mechanism in the concrete sample, cracks were induced in the concrete sample by three point bending test. The healing process of concrete sample was observed using ultrasonic non-destructive concrete tester. Self-healing concept was developed from wound healing mechanism in human being, in which certain level of wound can heal by itself. Self-healing agents have the ability to improve the properties of concrete even after damage. 
 ![image](https://user-images.githubusercontent.com/53009824/188303239-200ed20b-2543-45d3-9cbf-6fea601c8167.png)
@@ -32,5 +32,5 @@ A machine learning technique for regression problems, typically on the basis of 
 6. Multiple Regression: 
 MR also known as multiple linear regression (MLR), is a statistical technique that uses two or more explanatory variables to predict the outcome of a response variable. In other words, it can explain the relationship between multiple independent variables against one dependent variable.
 
-#Study Conclusion :
+#Study Conclusion: 
 Gradient Boosting Regression and Multiple Linear Regression predicted the frequency change closely then the others and some of the other algo is not best suited to predict industry oriented usage based on observations (small datasets).
